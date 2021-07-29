@@ -1,3 +1,1 @@
-altair
-pandas
-streamlit
+streamlit==0.73.1
